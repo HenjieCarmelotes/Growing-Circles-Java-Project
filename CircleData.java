@@ -23,7 +23,7 @@ public class CircleData {
 		double red = Math.random();
 		double green = Math.random();
 		double blue = Math.random();
-		color = new Color( red,green,blue, 0.4 );
+		color = new Color( red,green,blue, 0.4 ); //construct a color object that takes colors(red,green,blue) and transparency (0.4)
 	}
 	
 	/**
